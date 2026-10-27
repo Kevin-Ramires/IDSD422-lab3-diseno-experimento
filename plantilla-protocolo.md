@@ -8,9 +8,14 @@ Completa cada sección. Usa commits por sección; la historia del repositorio se
 
 *Hipótesis que el experimento pueda confirmar o refutar (formúlela como una comparación medible entre los grupos).*
 
+El tener el producto estrella en el pasillo principal aumenta sus ventas?
+
 ## 2. Unidad experimental
 
 *¿Qué recibe el tratamiento? ¿Cuántas unidades se incluyen?*
+Semana-Tienda(**# de tienda x # de semana**)
+
+10 tiendas x 4 semanas = 40 unidades
 
 - Unidad:
 - Número de unidades y justificación:
